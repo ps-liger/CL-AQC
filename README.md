@@ -1,5 +1,3 @@
-# CL-AQC
-Implementation of a high-capacity RDHEI method based on prediction-error mapping and code-length-adaptive quadtree coding.
 # CL-AQC: Reversible Data Hiding in Encrypted Images with Transform and Prediction Error
 
 ## Project Introduction
@@ -81,3 +79,10 @@ Built-in evaluation metrics:
 - MATLAB R2016b or higher
 - Image Processing Toolbox
 
+## Example
+
+```matlab
+% Run in MATLAB
+cd 'd:\paper tempt\第五篇\newcode\CL-AQC'
+Main
+```
